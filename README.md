@@ -12,4 +12,13 @@ VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at s
 
  2- choose Ubuntu desktop and select your desired version, your chosen version will determine which ROS version you can install. I will be working on Ubuntu 20.04. 
  
- 3- After you finish downloading the Ubuntu ISO file we will start installing it on VirtualBox. Start VirtualBox, then hit the NEW button, fill in your machine name, type and version and then click next. 
+ 3- After you finish downloading the Ubuntu ISO file we will start installing it on VirtualBox. Start VirtualBox, then hit the NEW button, fill in your machine name, type and version and then click next.
+ 
+ I downloaded it successfully on the virtual box.
+ 
+![ooooooooo](https://user-images.githubusercontent.com/109251925/178936858-7bef3037-4ea6-42b8-ae3d-b1c0b6c6d43a.png)
+
+## step3 :
+### Install of ROS Noetic
+
+
