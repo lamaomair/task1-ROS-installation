@@ -21,4 +21,9 @@ VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at s
 ## step3 :
 ### Install of ROS Noetic
 
+In the last step I visit http://wiki.ros.org/noetic/Installation/Ubuntu  
+And I follow the steps.
+
+I make sure that ROS is run and working successfully :
+
 
