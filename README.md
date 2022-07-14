@@ -27,3 +27,18 @@ And I follow the steps.
 I make sure that ROS is run and working successfully :
 
 
+![unnamed](https://user-images.githubusercontent.com/109251925/178939076-bf1b4776-2f59-4761-96a8-43d0d17ad853.jpg)
+
+## Concluin :
+
+There are a few ways to install and set up ROS noetic on Ubuntu 20.04 which usually is a straight fownward process. I chose to do this task using this simple method since it simplifies the process and prevent possiople errors.
+
+## More info:
+vidoes to help :
+
+
+https://youtu.be/x5MhydijWmc
+
+https://youtu.be/ZA7u2XPmnlo
+
+
